@@ -1,6 +1,7 @@
 package com.cwhcode.springbootex103;
 /* 
 Re-test to see how pull works
+Trying the Git Repositories sub-window
 */
 
 //Define the imports
